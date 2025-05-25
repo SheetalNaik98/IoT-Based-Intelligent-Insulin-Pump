@@ -1,0 +1,9 @@
+import streamlit as st
+
+st.title("IoT-Based Insulin Pump Interface")
+glucose = st.slider("Glucose Reading (mg/dL)", 60, 200, 110)
+
+if glucose > 130:
+    st.error("⚠️ Insulin Required – Auto Injecting...")
+else:
+    st.success("✅ Glucose Level Normal")
