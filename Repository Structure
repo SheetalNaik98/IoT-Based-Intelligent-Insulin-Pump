@@ -1,8 +1,5 @@
 IoT-Based-Intelligent-Insulin-Pump/
 ├── README.md
-├── docs/
-│   ├── FINAL_REPORT.pdf
-│   └── IEEE_PAPER.pdf
 ├── src/
 │   ├── arduino/insulin_pump_code.ino
 │   └── mobile_app/streamlit_mockup.py
