@@ -2,7 +2,6 @@
 
 An IoT-enabled non-invasive insulin regulation system integrating NIR-based glucose monitoring with real-time infusion control using Arduino and mobile interfaces.
 
-<img width="275" alt="Screenshot 2025-05-25 at 11 00 44 AM" src="https://github.com/user-attachments/assets/9b638c48-b8b0-41ae-843f-e8dbaf78552a" />
 
 
 
